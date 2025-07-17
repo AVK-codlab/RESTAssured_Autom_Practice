@@ -31,7 +31,6 @@ Welcome to the REST Assured API testing Learning Guide. This repository contains
 - 📌 Path, Query Parameters & Headers
 - 📌 REST Assured setup for API Automation testing
 - 📌 Introduction to POSTMAN
-- 📌 
 
 ### 🚀 REST API Testing advanced
 - 📌 Understanding JSON
@@ -53,4 +52,4 @@ Welcome to the REST Assured API testing Learning Guide. This repository contains
 
 This repository is primarily for personal learning, but contributions are welcome! 
 
-> 🚀 *Keep automating. Keep learning. Keep growing.*  
+> 🚀 *Keep learning. Keep growing.*  
